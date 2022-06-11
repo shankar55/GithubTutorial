@@ -7,7 +7,8 @@
 <h5>--->we need to commit the file to our local repository by using the command "git commit -m "yourmessage"</h5>
 <h5>--->we need to create repository in your github account and copy the HTTPSLink</h5>
 <h5>--->we need to enter this command to specify the path of your repo by using "git remote add origin HTTPSLink</h5>
-<h5>--->we need to push the file to remot by using "git push origin master"</h5>
+<h5>git branch -M main</h5>
+<h5>--->we need to push the file to remot by using "git push -u origin main --force"</h5>
 <hr>
 <h3>Pictorial working flow</h3>
 <img src="images/workingflow.PNG">
